@@ -56,7 +56,7 @@ class ProjectPostTemplate extends React.Component {
 export default ProjectPostTemplate
 
 export const pageQuery = graphql`
-  query ProjectPostBySlug($slug: String!) {
+  query ProjectPostBySlug($slug: String) {
     site {
       siteMetadata {
         title

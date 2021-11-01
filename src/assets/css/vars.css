@@ -1,0 +1,39 @@
+/* Variables
+/* ---------------------------------------------------------- */
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;600;700&display=swap');
+
+/*primary 정의*/
+
+:root {
+
+    /* Colours */
+    --color-primary: #131313;
+    --color-base: #111;
+    --color-border: #111;
+    --color-secondary: #7c7c7c;
+    --color-bg: #fefefe;
+
+    /* Fonts */
+    /* --font-sans-serif: "Mulish" , 'Arial', sans-serif; */
+    /*--font-serif: Georgia, Times, serif;
+    --font-mono: Menlo, Courier, monospace;*/
+    --font-light: 100;
+    --font-normal: 400;
+    --font-medium: 500;
+    --font-bold: 600;
+    --font-heavy: 700;
+
+    /* Breakpoints */
+    --xlarge: 1680px;
+    --large: 1280px;
+    --medium: 980px;
+    --small: 740px;
+    --xsmall: 480px;
+
+    /* Sizes */
+    --height: 4rem;
+    --margin: 2rem;
+    --radius: 0.5rem;
+
+}

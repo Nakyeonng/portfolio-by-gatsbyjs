@@ -1,0 +1,78 @@
+
+
+/* About페이지 컬러체인지
+/* ---------------------------------------------------------- */
+.about-time {
+    background-color:#111;
+}
+.about-time p{
+    color: #f7f7f7;
+}
+
+.about-time .site-foot .inner .foot-sns > li > a,
+.about-time .site-foot .inner .copyright,
+.about-time .site-foot .inner .copyright a,
+.about-time .site-head-left .nav > li > a,
+.about-time .site-head-logo a{
+    color: #f7f7f7;
+}
+
+.about-time .site-head-left .nav > li::before,
+.about-time .site-foot .inner .foot-sns > li::before{
+    background: #f7f7f7;
+}
+
+
+/* About페이지 내용
+/* ---------------------------------------------------------- */
+.about-content {
+    margin: 0 auto;
+}
+
+
+.about-content .inner > p{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+
+.about-content-body {
+    padding: 6vw 6vw 12vw;
+}
+@media (max-width: 850px) {
+
+    .about-content-body {
+        padding: 6vw;
+    }
+}
+
+#resume .contact .email{
+    margin-top: 30px;
+    font-size: 2.4rem;
+}
+
+/* 모바일 */
+
+@media (max-width: 850px) {
+    .about-time .site-head {
+        background-color:#111;
+    }
+    
+    .about-content {
+        margin-bottom: 100px;
+    }
+
+    .about-content .inner > p{
+        font-size: 2.4rem;
+    }
+    
+    .about-time .hamburger-inner, 
+    .about-time .hamburger-inner::before, 
+    .about-time .hamburger-inner::after {
+        background-color: #fff;
+    }
+    
+    .about-content-body {
+        padding: 6vw 0;
+    }
+}

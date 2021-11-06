@@ -162,7 +162,8 @@ img{
 }
 @media (max-width: 850px) {
     .site-wrapper {
-        padding: 6vw auto;
+        /* padding: 6vw auto; */
+        padding: 4rem 3rem;
     }
 }
 @media (min-width: 1680px) {

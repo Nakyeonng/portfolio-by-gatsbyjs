@@ -10,8 +10,8 @@ description: Darkness cannot drive out darkness; only light can do that. Hate ca
 <div><div class="intro">
     <div class="title">Miadidas Interactive Website Design</div>
     <div>
-        <p class="en">Oscar launched a new insurance product for small businesses in select markets, in partnership Cigna. To get the word out and explain the benefits of Cigna + Oscar to Business Administrators he Oscar Brand team worked with Buck to create a series of delightfully animated spots.</p>
-        <p class="ko">왜 하필 830px이냐고 물으시는 분이 있다면, 스크린의 높이가 스마트폰 중에서 가장 긴 iPhone X의 뷰포트(viewport) 높이가 812px이어서 이를 커버하기 위해 설정한 값입니다.</p>
+        <p class="en">My Adidas is for me, the only one in the world customization to design your own shoes Service. A service solution that minimizes the complex custom process and provides consumers' individuality easily and quickly. We wanted to show it in a fun and effective way.</p>
+        <p class="ko">마이아디다스는 세상에 단 하나 밖에 없는 나만을 위한 신발을 직접 디자인 할 수 있는 커스터마이즈 서비스입니다. 복잡한 커스텀 과정을 최소화하고 소비자 개성을 손쉽고 빠르게 제공한다는 서비스 솔루션을 재밌고 효과적으로 보여주고자 하였습니다.</p>
     </div>
 </div></div><!-- // section intro -->
 
@@ -22,7 +22,7 @@ description: Darkness cannot drive out darkness; only light can do that. Hate ca
 <div class="context middle">
     <div></div>
     <div>
-         <p>프로젝트를 막 시작했을때, 자메이크는 출시된지 1년 밖에 되지 않은 짧은 시간동안 급성장하며 사용자수도 급격하게 늘어난 서비스였지만 컨셉 뿐만 아니라 대시보드 경험을 어떻게 개선해 같이 가져갈지 정해진 목표가 없었습니다. 그래서 우선 사용자들을 이해하기 위한 리서치를 진행했습니다. 사용자와 가장 접점이 많은 실무진과의 인터뷰와 함께 그동안의 voc를 수집했고, 실사용자를 대상으로 설문조사를 진행하여 서비스를 사용하면서 느낀 경험과 숨어있는 니즈를 파악했습니다.</p>
+         <p>커스텀 가능한 신발들의 정보를 확인할 수 있는 페이지입니다. 상세보기를 통해 커스터마이징까지 해볼 수 있는 기능을 제공합니다. 가장 인기있는 디자인 라인이 대표 상단 이미지로 설정되어 접근성을 높이도록 하였습니다.</p>
     </div>
 </div>
 

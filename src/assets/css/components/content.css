@@ -1,3 +1,4 @@
+
 /* .md 설정 css값 */
 
 
@@ -5,7 +6,7 @@
 /* ---------------------------------------------------------- */
 
 .project-content {
-    max-width: 1500px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 3rem 0;
     color: #000;
@@ -60,11 +61,11 @@
     letter-spacing: -0.01em;
 }
 
-.project-content .project-img { 
-    margin: 20px 0; 
+.project-content-body .project-img img { 
+    margin: 10px 0; 
 }
 
-.project-content .project-img.two-grid {
+.project-content-body .project-img.two-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 20px;

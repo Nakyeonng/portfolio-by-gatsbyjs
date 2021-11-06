@@ -56,7 +56,8 @@ img{
 .site-head {
     position: fixed;
     width: 100%;
-    padding: 1vw 4vw;
+    /* padding: 1vw 4vw; */
+    padding: 2rem 8rem;
     z-index: 1000;
     top: 0;
     left: 0;
@@ -65,7 +66,8 @@ img{
 @media (min-width: 1680px) {
     .site-head-container{
         max-width: 1680px;
-        padding: 0 4vw;
+        /* padding: 0 4vw; */
+        padding: 0 8rem;
         margin: 0 auto;
     }
 }
@@ -154,7 +156,8 @@ img{
 /* ---------------------------------------------------------- */
 .site-wrapper {
     width: 100%;
-    padding: 3vw 4vw;
+    /* padding: 3vw 4vw; */
+    padding: 6rem 8rem;
     min-height: 100vh;
 }
 @media (max-width: 850px) {
@@ -212,7 +215,7 @@ img{
     /* display: flex; */
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 2.75rem;
+    grid-gap: 2.5rem;
     flex-wrap: wrap;
 }
 .post-feed main{
@@ -223,7 +226,6 @@ img{
     flex: 1 1 50%;
     display: flex;
     position: relative;
-    /* height: 35vw; */
     background: linear-gradient(135deg, #1f1f1f 0%, #111 100%) center center;
     background-size: cover;
     overflow: hidden;

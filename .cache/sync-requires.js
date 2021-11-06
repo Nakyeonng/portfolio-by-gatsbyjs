@@ -11,6 +11,6 @@ exports.components = {
   "component---src-pages-blog-js": hot(preferDefault(require("/Users/nakyeong/Desktop/web-portfolio/portfolio-by-gatsbyjs/src/pages/blog.js"))),
   "component---src-pages-blog-post-js": hot(preferDefault(require("/Users/nakyeong/Desktop/web-portfolio/portfolio-by-gatsbyjs/src/pages/blog-post.js"))),
   "component---src-pages-index-js": hot(preferDefault(require("/Users/nakyeong/Desktop/web-portfolio/portfolio-by-gatsbyjs/src/pages/index.js"))),
-  "component---src-pages-project-post-project-post-js": hot(preferDefault(require("/Users/nakyeong/Desktop/web-portfolio/portfolio-by-gatsbyjs/src/pages/project-post/project-post.js")))
+  "component---src-pages-project-post-js": hot(preferDefault(require("/Users/nakyeong/Desktop/web-portfolio/portfolio-by-gatsbyjs/src/pages/project-post.js")))
 }
 

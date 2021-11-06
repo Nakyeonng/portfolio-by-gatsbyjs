@@ -1,6 +1,3 @@
-/* Styling for Ghost-specific elements
-/* ---------------------------------------------------------- */
-
 /* .md 설정 css값 */
 
 
@@ -8,9 +5,9 @@
 /* ---------------------------------------------------------- */
 
 .project-content {
-    max-width: 1600px;
+    max-width: 1500px;
     margin: 0 auto;
-    padding: 3vw 0;
+    padding: 3rem 0;
     color: #000;
 }
 .project-content p {
@@ -63,11 +60,11 @@
     letter-spacing: -0.01em;
 }
 
-.project-img { 
-    padding: 10px 0; 
+.project-content .project-img { 
+    margin: 20px 0; 
 }
 
-.project-img.two-grid {
+.project-content .project-img.two-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 20px;

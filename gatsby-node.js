@@ -27,7 +27,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions
 
-  const ProjectPostTemplate = path.resolve(`./src/pages/project-post/project-post.js`)
+  const ProjectPostTemplate = path.resolve(`./src/pages/project-post.js`)
   const BlogPostTemplate = path.resolve(`./src/pages/blog-post.js`)
 
   const result =  graphql(`

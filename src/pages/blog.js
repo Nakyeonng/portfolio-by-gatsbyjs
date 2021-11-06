@@ -7,6 +7,7 @@ import Footer from "../components/footer"
 import SEO from "../components/seo"
 import BlogCard from "../components/blogCard"
 
+import "../assets/css/screen.css"
 import "../assets/css/blog.css"
 
 //Elements 페이지 (제작자의 연습용 페이지였던 듯) nope!

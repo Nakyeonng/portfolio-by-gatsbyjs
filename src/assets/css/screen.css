@@ -163,7 +163,8 @@ img{
 @media (max-width: 850px) {
     .site-wrapper {
         /* padding: 6vw auto; */
-        padding: 4rem 3rem;
+        /* padding: 4rem 2rem; */
+        padding: 3vw 4vw;
     }
 }
 @media (min-width: 1680px) {
@@ -403,3 +404,173 @@ img{
 }
 
 
+/*contents 컨텐츠들*/
+/*
+/* ---------------------------------------------------------- */
+
+
+/* .md 설정 css값 */
+
+
+/* Project Content 프로젝트 상세페이지
+/* ---------------------------------------------------------- */
+
+.project-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 3rem 0;
+    color: #000;
+}
+.project-content p {
+    font-size: 1.8rem;
+    line-height: 1.5;
+    letter-spacing: -0.01em;
+}
+.project-content h6 {
+    margin: 0 0 1.5rem 0;
+    font-size: 1.8rem;
+    line-height: 1.5;
+    letter-spacing: -0.01em;
+    font-weight: 600;
+}
+
+.project-content .intro,
+.project-content .context { 
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+}
+.project-content .intro div:nth-child(2),
+.project-content .context div:nth-child(2){
+    padding-right: 20px;
+}
+
+.project-content .intro {
+    margin: 60px 0 100px 0; 
+}
+.project-content .context {
+    padding: 20px 0 30px 0; 
+}
+
+.project-content .context.middle {
+    margin: 40px 0; 
+}
+
+.intro .title {
+    display: inline-block;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    font-size: 24px;
+    line-height: 1.5;
+    padding-left: 80px;
+}
+
+.intro p.en {
+    font-size: 20px;
+    margin-bottom: 16px;
+    letter-spacing: -0.01em;
+}
+
+.project-content-body .project-img img { 
+    margin: 10px 0; 
+}
+
+.project-content-body .project-img.two-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+}
+
+
+
+
+/* Blog Content 블로그 상세페이지
+/* ---------------------------------------------------------- */
+
+.blog-content {
+    max-width: 840px;
+    margin: 0 auto;
+    padding: 3vw 0;
+    color: #000;
+}
+
+.blog-content .blog-categories {
+    font-size: 1.6rem;
+    /* opacity: .5; */
+}
+
+.blog-content .blog-title {
+    font-size: 3.6rem;
+    letter-spacing: -0.03em;
+    line-height: 1.4;
+    margin: 12px 0;
+}
+
+.blog-content .blog-date {
+    font-size: 1.4rem;
+    /* opacity: .4; */
+    margin-bottom: 40px;
+}
+
+.blog-header-image {
+    height: 600px;
+    overflow:hidden;
+}
+
+.blog-header-image .header-img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+}
+
+.blog-content-body {
+    margin-bottom: 200px;
+}
+
+.blog-content-body p {
+    font-size: 18px;
+    letter-spacing: -0.01em;
+    line-height: 1.5;
+}
+
+.blog-content-body hr {
+    border-top: 1px solid #DFE1E7;
+}
+
+/* 모바일 */
+
+
+@media (max-width: 850px) {
+    /* project */
+    .project-content .intro,
+    .project-content .context { 
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .project-content .intro div:nth-child(2),
+    .project-content .context div:nth-child(2){
+        padding-right: 0;
+    }
+    .project-content .intro {
+        margin-bottom: 40px;
+    }
+    .intro .title {
+        padding-left: 0;
+    }
+    .project-content p {
+        font-size: 1.5rem;
+    }
+
+    .intro p.en {
+        font-size: 18px;
+    }
+    .project-content-body {
+        margin-bottom: 40px;
+    }
+
+    /* blog */
+
+    .blog-content-header {
+        margin-top: 60px;
+    }
+
+}

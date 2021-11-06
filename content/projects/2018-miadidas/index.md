@@ -16,7 +16,7 @@ description: Darkness cannot drive out darkness; only light can do that. Hate ca
 </div></div><!-- // section intro -->
 
 <div class="project-img">
-    <img alt="" src="https://drive.google.com/uc?id=1-0KFpoL51fK_UBp96IQSe5XuAMdS_uyn">
+    <img alt="" src="https://drive.google.com/uc?export=view&id=1-0KFpoL51fK_UBp96IQSe5XuAMdS_uyn">
 </div> <!-- // section 1-grid contents -->
 
 <div class="context middle">
@@ -27,13 +27,13 @@ description: Darkness cannot drive out darkness; only light can do that. Hate ca
 </div>
 
 <div class="project-img">
-    <img alt="" src="https://drive.google.com/uc?id=1UHE6DzbwWLZcS1ue-9N79V9iKZ9AM0aO">
+    <img alt="" src="https://drive.google.com/uc?export=view&id=1UHE6DzbwWLZcS1ue-9N79V9iKZ9AM0aO">
 </div> <!-- // section 1-grid contents -->
 <div class="project-img">
-    <img alt="" src="https://drive.google.com/uc?id=1BEz6I4t-xHoTNE5bdS7W7gFYLu9zwKLh">
+    <img alt="" src="https://drive.google.com/uc?export=view&id=1BEz6I4t-xHoTNE5bdS7W7gFYLu9zwKLh">
 </div> <!-- // section 1-grid contents -->
 <div class="project-img">
-    <img alt="" src="https://drive.google.com/uc?id=1IB49-TyXAHegEAvT1z4BJ4csk2s_NQSh">
+    <img alt="" src="https://drive.google.com/uc?export=view&id=1IB49-TyXAHegEAvT1z4BJ4csk2s_NQSh">
 </div> <!-- // section 1-grid contents -->
 
 <br/>

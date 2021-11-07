@@ -9,7 +9,6 @@ import ProjectCard from "../components/projectCard"
 // import "../utils/global.scss"
 import "../assets/normalize.css"
 import "../assets/css/screen.css"
-import "../assets/css/components/content.css"
 
 // 메인 페이지 (거의 껍데기.. 그 내막은 layout.js와 postCard에 있는듯)
 //seo 메타데이터로 상단 설명 부분을 가져오고,

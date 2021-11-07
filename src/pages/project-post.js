@@ -6,7 +6,7 @@ import Footer from "../components/footer"
 import SEO from "../components/seo"
 
 import "../assets/css/screen.css"
-import "../assets/css/components/content.css"
+import "../assets/css/post.css"
 //내용 뎁스 페이지!
 
 class ProjectPostTemplate extends React.Component {

@@ -10,13 +10,13 @@ description: Jamake analyzes the user's YouTube channel, tells which video and s
     <img src="https://drive.google.com/uc?export=view&id=1RtLIjFtUK5rza6uQiNGKWxijkRh3yNlM" alt="">
 </div> <!-- // section cover -->
 
-<div><div class="intro">
+<div class="intro">
     <div class="title">Jamake Landing Page UIUX Design Renewal</div>
     <div>
         <p class="en">Jamake analyzes the user's YouTube channel, tells which video and subtitle language is useful, and provides users with fast subtitles, an experience that helps attract overseas subscribers and help the channel grow. As the service expanded from a service that only provided subtitles and requested for subtitles to a service that provided channel growth insights, the landing page also needed to be renewed.</p>
         <p class="ko">자메이크는 유튜브를 전문으로 자막 번역을 제공하는 플랫폼입니다. 자막을 통해 해외 시청자를 사로잡고 유튜브 크리에이터의 글로벌 성장을 만드는 서비스로서 성장시키고자 하는 비지니스 니즈와 함께 사용자의 다양한 요구사항들을 충족시킨 개선된 모습으로 찾아뵙기 위해 서비스의 전반적인 리뉴얼을 진행하게 되었습니다.</p>
     </div>
-</div></div><!-- // section intro -->
+</div><!-- // section intro -->
 
 <div class="context">
     <div></div>

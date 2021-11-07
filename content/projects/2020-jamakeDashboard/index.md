@@ -19,14 +19,14 @@ description: Jamake is a platform that specializes in YouTube and provides subti
 </div></div><!-- // section intro -->
 
 <div><div class="context">
-    <div></div>
+    <div>ㅤ</div>
     <div>
         <h6>Kick-off</h6>
          <p>프로젝트를 막 시작했을때, 자메이크는 출시된지 1년 밖에 되지 않은 짧은 시간동안 급성장하며 사용자수도 급격하게 늘어난 서비스였지만 컨셉 뿐만 아니라 대시보드 경험을 어떻게 개선해 같이 가져갈지 정해진 목표가 없었습니다. 그래서 우선 사용자들을 이해하기 위한 리서치를 진행했습니다. 사용자와 가장 접점이 많은 실무진과의 인터뷰와 함께 그동안의 voc를 수집했고, 실사용자를 대상으로 설문조사를 진행하여 서비스를 사용하면서 느낀 경험과 숨어있는 니즈를 파악했습니다.</p>
     </div>
 </div></div><!-- // section context -->
 <div><div class="context">
-    <div></div>
+    <div>ㅤ</div>
     <div>
         <h6>Research</h6>
          <p>실무진 인터뷰를 통해 어떤 부분을 발췌를 했고 유저의 어떤 부분을 들어보고 싶었는지 중심으로 양식을 만들었습니다.
@@ -39,7 +39,7 @@ description: Jamake is a platform that specializes in YouTube and provides subti
 </div> <!-- // section 1-grid contents -->
 
 <div><div class="context middle">
-    <div></div>
+    <div>ㅤ</div>
     <div>
         <h6>Pain Points</h6>
          <p>우리는 리서치를 통해 크게 3가지 문제를 발견할 수 있었습니다.</p><br>
@@ -56,7 +56,7 @@ description: Jamake is a platform that specializes in YouTube and provides subti
     <img alt="" src="https://drive.google.com/uc?export=view&id=1LJ1IKRRvYu1-VMDFu_82JMo6-rnCwAuQ">
 </div>
 <div><div class="context middle">
-    <div></div>
+    <div>ㅤ</div>
     <div>
         <h6>Flow & Wireframe</h6>
          <p>다 채널 유저 및 동일한 영상의 언어 추가 주문 등 다양한 사용자 행태도 포용하고 유저의 목표 도달 흐름이 끊기는 부분이 없도록 설계하고자 노력했습니다. 빠르게 와이어프레임을 그려 팀원 모두가 이해하기 쉽도록 했고 정책과 개발 구현 범위 협의 등의 과정들을 거쳐나갔습니다. 사용성과 목표가 잘 녹여졌는지 구성원들의 피드백을 통해 의사결정 하여 완성도를 높여나갔습니다. </p>
@@ -69,7 +69,7 @@ description: Jamake is a platform that specializes in YouTube and provides subti
     <img alt="" src="https://drive.google.com/uc?export=view&id=1IbWikV--mNoht7EhYjdfw62Mewn3WsSr">
 </div>
 <div><div class="context middle">
-    <div></div>
+    <div>ㅤ</div>
     <div>
          <p>다 채널 유저 및 동일한 영상의 언어 추가 주문 등 다양한 사용자 행태도 포용하고 유저의 목표 도달 흐름이 끊기는 부분이 없도록 설계하고자 노력했습니다. 빠르게 와이어프레임을 그려 팀원 모두가 이해하기 쉽도록 했고 정책과 개발 구현 범위 협의 등의 과정들을 거쳐나갔습니다. 사용성과 목표가 잘 녹여졌는지 구성원들의 피드백을 통해 의사결정 하여 완성도를 높여나갔습니다. </p>
     </div>

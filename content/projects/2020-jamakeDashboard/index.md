@@ -19,9 +19,9 @@ description: Jamake is a platform that specializes in YouTube and provides subti
 </div></div><!-- // section intro -->
 
 <div><div class="context">
-    <div>ㅤ</div>
+    <div>이이이ㅣ잉이ㅣ이이이1</div>
     <div>
-        <h6>Kick-off</h6>
+        <h6 class="sibal">Kick-off</h6>
          <p>프로젝트를 막 시작했을때, 자메이크는 출시된지 1년 밖에 되지 않은 짧은 시간동안 급성장하며 사용자수도 급격하게 늘어난 서비스였지만 컨셉 뿐만 아니라 대시보드 경험을 어떻게 개선해 같이 가져갈지 정해진 목표가 없었습니다. 그래서 우선 사용자들을 이해하기 위한 리서치를 진행했습니다. 사용자와 가장 접점이 많은 실무진과의 인터뷰와 함께 그동안의 voc를 수집했고, 실사용자를 대상으로 설문조사를 진행하여 서비스를 사용하면서 느낀 경험과 숨어있는 니즈를 파악했습니다.</p>
     </div>
 </div></div><!-- // section context -->

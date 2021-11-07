@@ -6,8 +6,8 @@ import Layout from "../components/layout"
 import Footer from "../components/footer"
 import SEO from "../components/seo"
 
-import "../assets/css/screen.css"
 import "../assets/css/post.css"
+import "../assets/css/screen.css"
 
 //내용 뎁스 페이지!
 

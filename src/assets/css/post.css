@@ -4,7 +4,7 @@
 
 /* Project Content 프로젝트 상세페이지
 /* ---------------------------------------------------------- */
-/* 
+
 .project-content {
     max-width: 1200px;
     margin: 0 auto;
@@ -16,14 +16,8 @@
     line-height: 1.5;
     letter-spacing: -0.01em;
 }
-.project-content h6 {
-    margin: 0 0 1.5rem 0;
-    font-size: 1.8rem;
-    line-height: 1.5;
-    letter-spacing: -0.01em;
-    font-weight: 600;
-}
-.project-content h6.sibal {
+
+.project-content .sibal {
     margin: 0 0 1.5rem 0;
     font-size: 1.8rem;
     line-height: 1.5;
@@ -78,7 +72,6 @@
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 20px;
 }
- */
 
 
 
@@ -102,7 +95,7 @@
     line-height: 1.4;
     margin: 12px 0;
 }
-/* 
+
 .blog-content .blog-date {
     font-size: 1.4rem;
     margin-bottom: 40px;
@@ -166,4 +159,4 @@
         margin-top: 60px;
     }
 
-} */
+}

@@ -7,4 +7,4 @@ description: "Illustration, Brand Character"
 ---
 
 <br>
-유니크한 느낌의 캐릭터를 시도해보았습니다.
+유니크한 느낌의 캐릭터를 시도해보았습니다. :)

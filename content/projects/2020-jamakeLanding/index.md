@@ -23,17 +23,27 @@ description: Jamake analyzes the user's YouTube channel, tells which video and s
     <div>
         <b>Kick-off</b>
         <p>기존에 자막 의뢰와 자막 제공만 했던 서비스에서 채널 성장 인사이트까지 제공하는 서비스로 확장하면서 랜딩페이지도 함께 리뉴얼이 필요하게 되었습니다. 새롭게 정립한 브랜드 아이덴티티와 함께 서비스의 메세지가 잘 전달될 수 있도록 디자인해 구축하였습니다.</p>
-        <b>Background&Goal</b>
-        <p>우선 기존 랜딩페이지의 문제점을 정의하고 내부적으로 추가 기능과 비지니스에 대해 유저에게 전달하고 싶은 부분들을 수집했습니다. 또한, 정의되지 않았던 자메이크만의 정체성과 브랜딩을 정립하여 여러 디자인소스들을 생산해도 통일되어 보일 수 있게 하고자 했습니다.<br>
-        기존 랜딩페이지 문제정의와 내부 구성원의 인터뷰를 통해 랜딩페이지 개선 전략을 설정했습니다.<br>
-        1. 브랜드 아이덴티티 등 자메이크만의 정체성 확립<br>
-        2. 자막과 함께 성장 경험을 제공해주는 메세지를 전달<br>
-        3. 대시보드에 대한 내용이 랜딩에 나타나있지 않아 유저가 랜딩을 통해 서비스를 이해하기 어려웠던 문제를 개선<br>
-        4. 유저가 어떤 행동을 취해야하는지 CTA 버튼 및 강조점 부재에 대한 문제를 개선해 유저에게 명확한 선택지를 제공</p>
+        <br>
+        <b>Background</b>
+        <p>우선 기존 랜딩페이지의 문제점을 정의하고 내부적으로 추가 기능과 비지니스에 대해 유저에게 전달하고 싶은 부분들을 수집했습니다. 또한, 정의되지 않았던 자메이크만의 정체성과 브랜딩을 정립하여 여러 디자인소스들을 생산해도 통일되어 보일 수 있게 하고자 했습니다.</p>
     </div>
 </div>
 
 ![jamakeLanding-work-4](https://drive.google.com/uc?export=view&id=1tq8jJgWaDgF8ZQ4chbk_zcw1auCwDha1)
+
+<div class="intro">
+    <div></div>
+    <div>
+        <b>Goals</b>
+        <p>기존 랜딩페이지 문제정의와 내부 구성원의 인터뷰를 통해 랜딩페이지 개선 전략을 설정했습니다.<br>
+        1. 브랜드 아이덴티티 등 자메이크만의 정체성 확립<br>
+        2. 자막과 함께 성장 경험을 제공해주는 메세지를 전달<br>
+        3. 대시보드에 대한 내용이 랜딩에 나타나있지 않아 유저가 랜딩을 통해 서비스를 이해하기 어려웠던 문제를 개선<br>
+        4. 유저가 어떤 행동을 취해야하는지 CTA 버튼 및 강조점 부재에 대한 문제를 개선해 유저에게 명확한 선택지를 제공</p></p>
+    </div>
+</div>
+
+![jamakeLanding-work-1](https://drive.google.com/uc?export=view&id=1mjTNcVzAVmBZIOSnyciuXv6J11Hri99G)
 
 <div class="intro">
     <div></div>
@@ -43,8 +53,7 @@ description: Jamake analyzes the user's YouTube channel, tells which video and s
     </div>
 </div>
 
-![jamakeLanding-work-1](https://drive.google.com/uc?export=view&id=1mjTNcVzAVmBZIOSnyciuXv6J11Hri99G)
-
+![jamakeLanding-work-2](https://drive.google.com/uc?export=view&id=1B6wS4Hi7iWqonEAfWS8ifOBXV-8WeNTC)
 
 <div class="intro">
     <div></div>
@@ -55,7 +64,7 @@ description: Jamake analyzes the user's YouTube channel, tells which video and s
     </div>
 </div>
 
-![jamakeLanding-work-2](https://drive.google.com/uc?export=view&id=1B6wS4Hi7iWqonEAfWS8ifOBXV-8WeNTC)
+![jamakeLanding-work-3](https://drive.google.com/uc?export=view&id=1aPv_Bo7TRg2gLEf1HZesmYiMYxQUDzp6)
 
 <div class="intro">
     <div></div>
@@ -64,9 +73,6 @@ description: Jamake analyzes the user's YouTube channel, tells which video and s
         <p>키비주얼은 단순한 도형을 활용한 직관적인 표현으로 내용 전달을 살리면서도 트렌디하고 실용적이게 디자인하였고, 브랜드 아이덴티티도 느껴질 수 있도록 하였습니다.</p>
     </div>
 </div>
-
-![jamakeLanding-work-3](https://drive.google.com/uc?export=view&id=1aPv_Bo7TRg2gLEf1HZesmYiMYxQUDzp6)
-
 
 ![jamakeLanding-work-5](https://drive.google.com/uc?export=view&id=13eDclY25YKlKydemAXsNUlFjVUMVS3l7)
 

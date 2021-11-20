@@ -2,8 +2,8 @@
 title: "Unique Gifts"
 date: "2021-07-01"
 thumbnail: ./newversion.png
-categories: "Design"
-description: "Illust, Brand Character"
+categories: "Design ✨"
+description: "Illustration, Brand Character"
 ---
 
 ![Clean lines](./newversion.png)

@@ -37,14 +37,14 @@ class BlogPostTemplate extends React.Component {
           </header>
 
 
-          {/* {post.frontmatter.thumbnail && (
+          {post.frontmatter.thumbnail && (
             <div className="blog-header-image">
               <Img className="header-img"
                 fluid={post.frontmatter.thumbnail.childImageSharp.fluid}
                 alt={post.frontmatter.title}
               />
             </div>
-          )} */}
+          )}
 
           <div
             className="blog-content-body"

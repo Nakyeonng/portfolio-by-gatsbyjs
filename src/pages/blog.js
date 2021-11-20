@@ -38,13 +38,13 @@ const BlogPage = ({ data }, location) => {
                 >Latest</a></li>
               <li>
                 <a href="#"
-                >Design</a></li>
+                >Design ✨</a></li>
               <li>
                 <a href="#"
                 >Coding</a></li>
                 <li>
                   <a href="#"
-                  >Inspiration ✨</a></li>
+                  >Inspiration</a></li>
               </ul>
           </div>
 

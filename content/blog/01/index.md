@@ -2,8 +2,8 @@
 title: "Taking a test"
 date: "2021-02-03"
 thumbnail: ./mockup.png
-categories: "Design"
-description: "Illust, Character"
+categories: "Design ✨"
+description: "Illustration, Character"
 ---
 
 ![Clean lines](./ready.png)

@@ -17,8 +17,6 @@ description: Darkness cannot drive out darkness; only light can do that. Hate ca
 
 ![Clean lines](https://drive.google.com/uc?export=view&id=1-0KFpoL51fK_UBp96IQSe5XuAMdS_uyn)
 
-커스텀 가능한 신발들의 정보를 확인할 수 있는 페이지입니다. 상세보기를 통해 커스터마이징까지 해볼 수 있는 기능을 제공합니다. 가장 인기있는 디자인 라인이 대표 상단 이미지로 설정되어 접근성을 높이도록 하였습니다.
-
 ![Clean lines](https://drive.google.com/uc?export=view&id=1UHE6DzbwWLZcS1ue-9N79V9iKZ9AM0aO)
 
 ![Clean lines](https://drive.google.com/uc?export=view&id=1BEz6I4t-xHoTNE5bdS7W7gFYLu9zwKLh)

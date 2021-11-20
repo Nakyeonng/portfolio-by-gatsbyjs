@@ -1,7 +1,7 @@
 ---
 title: "준비중"
 date: "2019-05-05"
-thumbnail: ./ready.jpg
+thumbnail: ./mockup.png
 categories: "Inspiration ✨"
 description: "poster, 3D, Digital"
 ---
@@ -13,11 +13,7 @@ description: "poster, 3D, Digital"
 ---
 
 **업데이트**
-
-<br>
-
-![Clean lines](./ready.jpg)
-
+![Clean lines](./ready.png)
 
 <br>
 

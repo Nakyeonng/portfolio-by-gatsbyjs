@@ -27,7 +27,7 @@ description: Jamake is a platform that specializes in YouTube and provides subti
 헤비 유저와 라이트 유저를 중심으로 골고루 인터뷰 대상으로 선정하고 스티비, 채널톡 등 다양한 마케팅 채널을 활용해 소정의 사례와 함께 설문 참가자를 모았습니다.
 
 
-![jamakelanding-work-1](https://drive.google.com/uc?export=view&id=1YWWEPV3FODLhUJ9j21rFynm7cYjPDrNy)
+![jamakeDashboard-work-1](https://drive.google.com/uc?export=view&id=1YWWEPV3FODLhUJ9j21rFynm7cYjPDrNy)
 
 
 **Pain Points**
@@ -39,7 +39,7 @@ description: Jamake is a platform that specializes in YouTube and provides subti
 **Goals**
 문제 정의 후, 우리는 급격히 발전하는 비지니스와 자막 번역 의뢰라는 생소한 영역을 친근하고 쉽게 이용할 수 있도록 발견한 페인포인트들을 중심으로 기본적인 기반을 튼튼히 다져놓자는 목표를 세웠습니다.
 
-![jamakelanding-work-2](https://drive.google.com/uc?export=view&id=1LJ1IKRRvYu1-VMDFu_82JMo6-rnCwAuQ)
+![jamakeDashboard-work-2](https://drive.google.com/uc?export=view&id=1LJ1IKRRvYu1-VMDFu_82JMo6-rnCwAuQ)
 
 
 **Flow & Wireframe**
@@ -48,24 +48,24 @@ description: Jamake is a platform that specializes in YouTube and provides subti
 **UI Component**
 새롭게 자메이크 3.0 브랜드 아이덴티티를 잡아나가며 결정한 컬러와 폰트로 활용범위가 높은 컴포넌트 디자인을 먼저 결정하여 물리적인 시간 제약에도 통일성있는 UI를 제공하고자 했습니다
 
-![jamakelanding-work-3](https://drive.google.com/uc?export=view&id=1IbWikV--mNoht7EhYjdfw62Mewn3WsSr)
+![jamakeDashboard-work-3](https://drive.google.com/uc?export=view&id=1IbWikV--mNoht7EhYjdfw62Mewn3WsSr)
 
 
 다 채널 유저 및 동일한 영상의 언어 추가 주문 등 다양한 사용자 행태도 포용하고 유저의 목표 도달 흐름이 끊기는 부분이 없도록 설계하고자 노력했습니다. 빠르게 와이어프레임을 그려 팀원 모두가 이해하기 쉽도록 했고 정책과 개발 구현 범위 협의 등의 과정들을 거쳐나갔습니다. 사용성과 목표가 잘 녹여졌는지 구성원들의 피드백을 통해 의사결정 하여 완성도를 높여나갔습니다.
 
-![jamakelanding-work-4](https://drive.google.com/uc?export=view&id=1V774xYDkIyauRA9jyXeFZRm1-6s0EMA4)
+![jamakeDashboard-work-4](https://drive.google.com/uc?export=view&id=1V774xYDkIyauRA9jyXeFZRm1-6s0EMA4)
 
-![jamakelanding-work-5](https://drive.google.com/uc?export=view&id=1844GulFyrjIk5PnBnBody9FTSJLduqYS)
+![jamakeDashboard-work-5](https://drive.google.com/uc?export=view&id=1844GulFyrjIk5PnBnBody9FTSJLduqYS)
 
-![jamakelanding-work-6](https://drive.google.com/uc?export=view&id=1xTQ7qG89hG5ZJm9Ypz8CyKJ2Jj_wfPDN)
+![jamakeDashboard-work-6](https://drive.google.com/uc?export=view&id=1xTQ7qG89hG5ZJm9Ypz8CyKJ2Jj_wfPDN)
 
-![jamakelanding-work-7](https://drive.google.com/uc?export=view&id=17YY0aRx6NVa3ukP43oXYpk56Nf6qkHgf)
+![jamakeDashboard-work-7](https://drive.google.com/uc?export=view&id=17YY0aRx6NVa3ukP43oXYpk56Nf6qkHgf)
 
-![jamakelanding-work-8](https://drive.google.com/uc?export=view&id=1XZMrRQ1uO6O1BH8-2dy-kRX76y-X7o1G)
+![jamakeDashboard-work-8](https://drive.google.com/uc?export=view&id=1XZMrRQ1uO6O1BH8-2dy-kRX76y-X7o1G)
 
-![jamakelanding-work-9](https://drive.google.com/uc?export=view&id=1Gxqf0K4cvoENteNARYQ45qhEiTrpq2Ok)
+![jamakeDashboard-work-9](https://drive.google.com/uc?export=view&id=1Gxqf0K4cvoENteNARYQ45qhEiTrpq2Ok)
 
-![jamakelanding-work-10](https://drive.google.com/uc?export=view&id=10IMOSLnunChXii48_cbNTLEHtYq6IPWH)
+![jamakeDashboard-work-10](https://drive.google.com/uc?export=view&id=10IMOSLnunChXii48_cbNTLEHtYq6IPWH)
 
 
 <br/>

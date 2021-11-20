@@ -34,49 +34,36 @@ description: Jamake analyzes the user's YouTube channel, tells which video and s
 <div class="project-img">
     <img alt="" src="https://drive.google.com/uc?export=view&id=1mjTNcVzAVmBZIOSnyciuXv6J11Hri99G">
 </div> <!-- // section 1-grid contents -->
-<div class="context middle">
-    <div></div>
-    <div>
-         <p>우리는 경쟁사의 리서치와 함께 디자인 방향성에 대해 고민했습니다. 우선 사용자층을 분석하여 메인 타겟 유저를 2-30대의 트렌디한 유튜브 크리에이터로 설정하였고 서비스 방향과 함께 디자인 전략 키워드를 growth, easy, friendly로 정의하였습니다.</p>
-    </div>
-</div>
+
+
+우리는 경쟁사의 리서치와 함께 디자인 방향성에 대해 고민했습니다. 우선 사용자층을 분석하여 메인 타겟 유저를 2-30대의 트렌디한 유튜브 크리에이터로 설정하였고 서비스 방향과 함께 디자인 전략 키워드를 growth, easy, friendly로 정의하였습니다.
+
+
 <div class="project-img">
     <img alt="" src="https://drive.google.com/uc?export=view&id=1B6wS4Hi7iWqonEAfWS8ifOBXV-8WeNTC">
 </div>
-<div class="context middle">
-    <div></div>
-    <div>
-         <p>자메이크 컬러는 젊고 트렌디한 느낌을 주기 위해 퍼플과 블루 중간 계열의 컬러를 메인컬러에 사용하였습니다.</p> <br> <p>폰트의 경우, 자메이크는 일본에서도 서비스를 제공하고 있어 일본어 지원도 되는 Noto Sans 서체를 사용하였습니다. 영문과 숫자는 친근한 느낌을 줄 수 있는 Lato 서체를 채택해 사용하였습니다.</p>
-    </div>
-</div>
+
+
+자메이크 컬러는 젊고 트렌디한 느낌을 주기 위해 퍼플과 블루 중간 계열의 컬러를 메인컬러에 사용하였습니다.</p> <br> <p>폰트의 경우, 자메이크는 일본에서도 서비스를 제공하고 있어 일본어 지원도 되는 Noto Sans 서체를 사용하였습니다. 영문과 숫자는 친근한 느낌을 줄 수 있는 Lato 서체를 채택해 사용하였습니다.
+
 <div class="project-img">
     <img alt="" src="https://drive.google.com/uc?export=view&id=1aPv_Bo7TRg2gLEf1HZesmYiMYxQUDzp6">
 </div>
-<div class="context middle">
-    <div></div>
-    <div>        
-        <h6>Key Visual</h6>
-         <p>키비주얼은 단순한 도형을 활용해 키치하게 표현하여 브랜드 아이덴티티가 전달될 수 있도록 하였습니다.</p>
-    </div>
-</div>
+
+Key Visual
+키비주얼은 단순한 도형을 활용해 키치하게 표현하여 브랜드 아이덴티티가 전달될 수 있도록 하였습니다.
+
+
 <div class="project-img">
     <img alt="" src="https://drive.google.com/uc?export=view&id=1tq8jJgWaDgF8ZQ4chbk_zcw1auCwDha1">
 </div>
-<div class="context middle">
-    <div></div>
-    <div>        
-        <h6>Wireframe</h6>
-         <p>빠른 설계와 피드백을 반복하며 전체적인 흐름과 완성도를 잡아나갔습니다. 메인페이지의 경우 그래픽요소가 필요한 부분이 많아 빠르게 여러 버전을 스케치해보며 정해진 컨셉과 어울리며 시간 제약 내 완성할 수 있는 버전으로 확정지어나갔습니다. </p>
-         <p>개발 스펙 논의를 통해 구축기간 등을 고려하여 기존과 동일하게 적응형 디자인으로 진행하기로 하였습니다. 그래서 랜딩페이지의 주요 컴포넌트들을 데스크탑 1920, 태블릿 768, 모바일 375을 기준으로 디자인했습니다.  </p>
-    </div>
-</div>
-<div class="context middle">
-    <div></div>
-    <div>        
-        <h6>GUI Design</h6>
-         <p>메인은 쉽고 빠른 자막이라는 강점을 드러내면서도 자막을 통한 성장이라는 메세지가 잘 전달될 수 있도록 기획하였습니다. 파트너 로고를 상단에 배치해 서비스에 대한 신뢰가 바로 느껴질 수 있도록 하였고, 그 아래로 소개, 인사이트, 사회적증거를 보여주는 콘텐츠를 배치해 사용자가 서비스 이해와 신뢰를 얻을 수 있도록 도왔습니다. CTA 버튼은 최상하단과 고정 GNB에 두어 대시보드에 빠르게 진입을 도울 수 있도록 구성하였습니다. 또한 인터랙션을 활용하여 사이트에 활기가 느껴지도록 하였습니다. </p>
-    </div>
-</div>
+
+Wireframe
+빠른 설계와 피드백을 반복하며 전체적인 흐름과 완성도를 잡아나갔습니다. 메인페이지의 경우 그래픽요소가 필요한 부분이 많아 빠르게 여러 버전을 스케치해보며 정해진 컨셉과 어울리며 시간 제약 내 완성할 수 있는 버전으로 확정지어나갔습니다.
+개발 스펙 논의를 통해 구축기간 등을 고려하여 기존과 동일하게 적응형 디자인으로 진행하기로 하였습니다. 그래서 랜딩페이지의 주요 컴포넌트들을 데스크탑 1920, 태블릿 768, 모바일 375을 기준으로 디자인했습니다.
+
+GUI Design
+메인은 쉽고 빠른 자막이라는 강점을 드러내면서도 자막을 통한 성장이라는 메세지가 잘 전달될 수 있도록 기획하였습니다. 파트너 로고를 상단에 배치해 서비스에 대한 신뢰가 바로 느껴질 수 있도록 하였고, 그 아래로 소개, 인사이트, 사회적증거를 보여주는 콘텐츠를 배치해 사용자가 서비스 이해와 신뢰를 얻을 수 있도록 도왔습니다. CTA 버튼은 최상하단과 고정 GNB에 두어 대시보드에 빠르게 진입을 도울 수 있도록 구성하였습니다. 또한 인터랙션을 활용하여 사이트에 활기가 느껴지도록 하였습니다.
 
 <div class="project-img">
     <img alt="" src="https://drive.google.com/uc?export=view&id=13eDclY25YKlKydemAXsNUlFjVUMVS3l7">

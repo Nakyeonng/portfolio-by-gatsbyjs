@@ -16,7 +16,7 @@ description: "poster, 3D, Digital"
 
 <br>
 
-![Clean lines](https://cdn.dribbble.com/users/3798578/screenshots/16764068/media/bc6dafed626c28746083d31733d874ae.png?compress=1&resize=1600x1200)
+![Clean lines](./ready.jpg)
 
 
 <br>

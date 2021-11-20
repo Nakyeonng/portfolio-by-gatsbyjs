@@ -16,15 +16,6 @@
     line-height: 1.5;
     letter-spacing: -0.01em;
 }
-
-.project-content .sibal {
-    margin: 0 0 1.5rem 0;
-    font-size: 1.8rem;
-    line-height: 1.5;
-    letter-spacing: -0.01em;
-    font-weight: 600;
-}
-
 .project-content .intro{ 
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -54,7 +45,7 @@
     letter-spacing: -0.02em;
     font-size: 24px;
     line-height: 1.5;
-    padding-left: 80px;
+    /* padding-left: 80px; */
 }
 
 .intro p.en {
@@ -102,8 +93,8 @@
 }
 
 .blog-header-image {
-    height: 600px;
-    overflow:hidden;
+    /* height: 600px;
+    overflow:hidden; */
 }
 
 .blog-header-image .header-img{

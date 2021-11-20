@@ -6,6 +6,9 @@ categories: "Inspiration ✨"
 description: "poster, 3D, Digital"
 ---
 
+![Clean lines](./newversion.png)
+
+
 <!-- ##### 마크다운 생성하기
 미모티콘을 생성하시려면 먼저 아이폰 메시지에 들어가시면 메시지앱에 다음과 같은 옵션이 있습니다. 여기서 앱스토어 옆에 있는 버튼을 클릭하면 아래와 같은 미모티콘들이 나오는 걸 볼 수 있습니다.
 

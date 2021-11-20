@@ -13,7 +13,7 @@ description: Jamake is a platform that specializes in YouTube and provides subti
 <div><div class="intro">
     <div class="title">Jamake Dashboard UIUX Design Renewal</div>
     <div>
-        <p class="en">Jamake is a platform that specializes in YouTube and provides subtitle translation. The overall renewal of the service has been carried out in order to meet the various needs of users as well as the business needs to grow as a service that captivates overseas viewers through subtitles and creates global growth for YouTube creators.</p>
+        <p class="en">Jamake 3.0 is a subtitle production service that provides subtitle translation for YouTube creators and provides an experience of gaining insight into YouTube channel growth through subtitles.</p>
         <p class="ko">자메이크 3.0은 유튜브 크리에이터를 전문으로 자막 번역 제공과 자막을 통한 유튜브 채널 성장에 대한 인사이트를 얻는 경험을 할 수 있는 자막 제작 서비스입니다.</p>
     </div>
 </div></div><!-- // section intro -->

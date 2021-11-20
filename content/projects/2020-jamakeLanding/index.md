@@ -19,7 +19,7 @@ description: Jamake analyzes the user's YouTube channel, tells which video and s
 </div><!-- // section intro -->
 
 
-<div class="context">
+<div class="intro">
     <div></div>
     <div>
         <h6>kick-off</h6>

@@ -1,8 +1,8 @@
 ---
-title: 2018~2019 Archive
+title: Archives
 date: "2018"
 thumbnail: ./idol_thumb.jpg
-categories: "Web, Mobile UI"
+categories: "Web, App, UI, UX"
 description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
 

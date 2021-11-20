@@ -51,8 +51,8 @@
 }
 
 .blog-card {
-    height: 15vw;
-    overflow:hidden;
+    /* height: 15vw;
+    overflow:hidden; */
 }
 
 .blog-card .blog-img {

@@ -94,8 +94,8 @@
 }
 
 .blog-header-image {
-    height: 600px;
-    overflow:hidden;
+    /* height: 600px;
+    overflow:hidden; */
 }
 
 .blog-header-image .header-img{

@@ -30,7 +30,7 @@ const BlogPage = ({ data }, location) => {
           )}
         <div className="blog-area">
           <div className="blog-filter">
-            <p className="label">A space to build up skills<br/>  through various<br/> exercises and inspiration.</p>
+            <p className="label">A space to build up skills<br/>  through various<br/> exercises&amp;inspiration.</p>
 
             <ul className="filter-list">
               <li>

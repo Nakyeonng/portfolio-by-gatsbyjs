@@ -68,12 +68,19 @@ description: Jamake is a platform that specializes in YouTube and provides subti
 <div class="intro">
     <div></div>
     <div>
-        <p>채널분석 페이지에서는 복잡한 데이터 그래프 제공보다는 해외반응에 대한 채널 상태를 한눈에 요약된 내용으로 메인을 구성해 유저가 혼란을 느끼지 않고 직관적으로 느껴질 수 있도록 하였습니다. 데이터 그래프 등 자세한 내용들에 대해서는 다음 페이지에 구성하여 유저들이 해외반응과 자막 효용에 대해 자세히 확인할 수 있게 했습니다. 또한, UX라이팅에도 채널분석이라는 신규 서비스가 어렵지 않게 느껴지도록 직관적일 수 있도록 고민했습니다.</p>
+        <b>UI Component</b>
+        <p>이전의 대표 컬러였던 바이올렛/블랙 조합에서 주요 타겟인 2-30대 유튜브 크리에이터들의 자유로움과 크리에이티브함이 반영된 브랜드 아이덴티티로 새로이 자메이크의 감성을 잡아나갔습니다. 이에 새롭게 결정한 자메이크 브랜드 컬러인 Blueming Violet 컬러를 포인트로 하여 컴포넌트 디자인 진행하였고 물리적인 시간 제약에도 통일성있는 UI를 제공하고자 했습니다.</p>
     </div>
 </div>
 
-
 ![jamakeDashboard-work-4](https://drive.google.com/uc?export=view&id=1V774xYDkIyauRA9jyXeFZRm1-6s0EMA4)
+
+<div class="intro">
+    <div></div>
+    <div>
+        <p>채널분석 페이지에서는 복잡한 데이터 그래프 제공보다는 해외반응에 대한 채널 상태를 한눈에 요약된 내용으로 메인을 구성해 유저가 혼란을 느끼지 않고 직관적으로 느껴질 수 있도록 하였습니다. 데이터 그래프 등 자세한 내용들에 대해서는 다음 페이지에 구성하여 유저들이 해외반응과 자막 효용에 대해 자세히 확인할 수 있게 했습니다. 또한, UX라이팅에도 채널분석이라는 신규 서비스가 어렵지 않게 느껴지도록 직관적일 수 있도록 고민했습니다.</p>
+    </div>
+</div>
 
 ![jamakeDashboard-work-5](https://drive.google.com/uc?export=view&id=1844GulFyrjIk5PnBnBody9FTSJLduqYS)
 

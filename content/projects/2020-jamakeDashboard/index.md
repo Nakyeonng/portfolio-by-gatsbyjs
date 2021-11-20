@@ -57,9 +57,6 @@ description: Jamake is a platform that specializes in YouTube and provides subti
     <div>
         <b>Flow & Wireframe</b>
         <p>프로젝트 목표에 따른 개선된 경험을 제공하기 위해 기존 자메이크의 정보 구조를 재정비했고,  직관적이지 않아 유저에게 혼란을 주었던 몇가지 메뉴와 기능에 대해 네이밍을 재정의했습니다. 이를 빠르게 반영하고 팀원 모두가 이해하기 쉽도록 와이어프레임을 그려 정책과 개발 구현 범위 협의 등의 과정들을 거쳐나갔습니다. 또한 사용성과 목표가 잘 녹여졌는지에 대한 피드백을 통해 빠르게 의사결정을 하여 완성도를 높여나갔습니다.</p>
-        <br>
-        <b>UI Component</b>
-        <p>이전의 대표 컬러였던 바이올렛/블랙 조합에서 주요 타겟인 2-30대 유튜브 크리에이터들의 자유로움과 크리에이티브함이 반영된 브랜드 아이덴티티로 새로이 자메이크의 감성을 잡아나갔습니다. 이에 새롭게 결정한 자메이크 브랜드 컬러인 Blueming Violet 컬러를 포인트로 하여 컴포넌트 디자인 진행하였고 물리적인 시간 제약에도 통일성있는 UI를 제공하고자 했습니다.</p>
     </div>
 </div>
 
@@ -84,19 +81,13 @@ description: Jamake is a platform that specializes in YouTube and provides subti
 
 ![jamakeDashboard-work-5](https://drive.google.com/uc?export=view&id=1844GulFyrjIk5PnBnBody9FTSJLduqYS)
 
-<div class="intro">
-    <div></div>
-    <div>
-        <p>4단계로 거쳤던 의뢰-결제 프로세스를 2단계로 축소시키고, 단계를 들어가야 나왔던 견적을 첫단계에 바로 보이게 해 번거로움을 해소하고자 하였습니다. 또한, 유저별로 자주 사용하는 주문옵션을 고정활성화해 유저의 반복 작업을 줄였습니다. </p>
-    </div>
-</div>
 
 ![jamakeDashboard-work-6](https://drive.google.com/uc?export=view&id=1xTQ7qG89hG5ZJm9Ypz8CyKJ2Jj_wfPDN)
 
 <div class="intro">
     <div></div>
     <div>
-        <p>나의 비디오에서는 %만 보여줬던 의뢰진행율에 대해 CS 문의가 가장 많았습니다. 이에 대해 기다려야하는 요소에 대해 진행 상황 내용들을 알려주어 불안감을 최소화하고자 했습니다. </p>
+        <p>4단계로 거쳤던 의뢰-결제 프로세스를 2단계로 축소시키고, 단계를 들어가야 나왔던 견적을 첫단계에 바로 보이게 해 번거로움을 해소하고자 하였습니다. 또한, 유저별로 자주 사용하는 주문옵션을 고정활성화해 유저의 반복 작업을 줄였습니다. </p>
     </div>
 </div>
 
@@ -107,13 +98,20 @@ description: Jamake is a platform that specializes in YouTube and provides subti
 <div class="intro">
     <div></div>
     <div>
+        <p>나의 비디오에서는 %만 보여줬던 의뢰진행율에 대해 CS 문의가 가장 많았습니다. 이에 대해 기다려야하는 요소에 대해 진행 상황 내용들을 알려주어 불안감을 최소화하고자 했습니다. </p>
+    </div>
+</div>
+
+![jamakeDashboard-work-9](https://drive.google.com/uc?export=view&id=1Gxqf0K4cvoENteNARYQ45qhEiTrpq2Ok)
+
+<div class="intro">
+    <div></div>
+    <div>
         <p>부계정 채널을 운영하는 유튜버들이 다수있으며 특히 기업형 유튜버들은 여러 채널의 다양한 콘텐츠를 통해 구독자들의 시청각을 만족시키고 있습니다.
         이에 채널 관리자들이 1 아이디 1 채널이라는 번거로움이 없도록 한 아이디에서 여러 채널을 연동할 수 있도록 설계하였습니다.
         내 정보는 아이디 중심으로 하여 다수 채널을 한번에 관리할 수 있도록 하며, 채널분석은 각 채널별로 인사이트를 얻을 수 있도록 구성하였습니다.</p>
     </div>
 </div>
-
-![jamakeDashboard-work-9](https://drive.google.com/uc?export=view&id=1Gxqf0K4cvoENteNARYQ45qhEiTrpq2Ok)
 
 ![jamakeDashboard-work-10](https://drive.google.com/uc?export=view&id=10IMOSLnunChXii48_cbNTLEHtYq6IPWH)
 

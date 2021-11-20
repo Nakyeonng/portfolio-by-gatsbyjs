@@ -30,11 +30,11 @@ class BlogPostTemplate extends React.Component {
             <p class="blog-categories">{post.frontmatter.categories}</p>
           )} */}
 
-          <header className="blog-content-header">
+          <div className="blog-content-header">
             <p class="blog-categories">{post.frontmatter.categories}</p>
             <h1 className="blog-title">{post.frontmatter.title}</h1>
             <p class="blog-date">Posted on {post.frontmatter.date}</p>
-          </header>
+          </div>
 
 
           {post.frontmatter.thumbnail && (

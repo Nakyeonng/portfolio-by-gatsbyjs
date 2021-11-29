@@ -22,10 +22,11 @@ production stylesheet in assets/built/screen.css using gulp dev
 
 html,body {
     height: 100%;
+    font-size: 14px;
 }
 body {
-    font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;;
-    /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; */
+    /* font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;; */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     background: var(--color-bg);
     /*transition: background 0.3s ease-out;*/
     transition-delay: 0.25;

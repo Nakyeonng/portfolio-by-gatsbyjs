@@ -12,15 +12,16 @@ const Layout = props => {
   const {pathname} = useLocation()
   console.log(pathname)
 
-  componentDidMount()
-  {
-    window.scrollTo(0,0);
-    console.log("test-mount");
+  exports.onRouteUpdate = () => {
+    if (typeof window !== `undefined`) { window.scrollTo(0, 0)}
   }
+  
+  exports.shouldUpdateScroll = args => {
+     return false;
+  };
 
   return (
-    <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`} 
-    onLoad={componentDidMount}>
+    <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>
       {/*header*/}
       <header className="site-head">
         <div className="site-head-container">

@@ -13,7 +13,7 @@
 }
 
 .blog-filter .label {
-    font-size: 14px;
+    font-size: 1rem;
 }
 .blog-filter .label::after {
     display: block;
@@ -63,14 +63,14 @@
 
 .blog-category {
     margin-top: 14px;
-    font-size: 1.4rem;
+    font-size: 1rem;
     letter-spacing: -0.02em;
     font-weight: 400;
 }
 
 .blog-card-title {
     margin-top: 10px;
-    font-size: 2rem;
+    font-size: 1.3rem;
     letter-spacing: -0.02em;
     font-weight: 500;
     line-height: 1.4;
@@ -78,7 +78,7 @@
 
 .blog-description {
     margin-top: 12px;
-    font-size: 1.4rem;
+    font-size: 0.9rem;
     letter-spacing: -0.02em;
     color: #b5b5b5;
     /* opacity: .6; */

@@ -21,10 +21,8 @@ description: Jamake analyzes the user's YouTube channel, tells which video and s
 <div class="intro">
     <div></div>
     <div>
-        <b>Kick-off</b>
         <p>기존에 자막 의뢰와 자막 제공만 했던 서비스에서 채널 성장 인사이트까지 제공하는 서비스로 확장하면서 랜딩페이지도 함께 리뉴얼이 필요하게 되었습니다. 새롭게 정립한 브랜드 아이덴티티와 함께 서비스의 메세지가 잘 전달될 수 있도록 디자인해 구축하였습니다.</p>
         <br>
-        <b>Background</b>
         <p>우선 기존 랜딩페이지의 문제점을 정의하고 내부적으로 추가 기능과 비지니스에 대해 유저에게 전달하고 싶은 부분들을 수집했습니다. 또한, 정의되지 않았던 자메이크만의 정체성과 브랜딩을 정립하여 여러 디자인소스들을 생산해도 통일되어 보일 수 있게 하고자 했습니다.</p>
     </div>
 </div>
@@ -34,7 +32,7 @@ description: Jamake analyzes the user's YouTube channel, tells which video and s
 <div class="intro">
     <div></div>
     <div>
-        <b>Goals</b>
+        <b>목표</b>
         <p>기존 랜딩페이지 문제정의와 내부 구성원의 인터뷰를 통해 랜딩페이지 개선 전략을 설정했습니다.<br>
         1. 브랜드 아이덴티티 등 자메이크만의 정체성 확립<br>
         2. 자막과 함께 성장 경험을 제공해주는 메세지를 전달<br>
@@ -48,7 +46,7 @@ description: Jamake analyzes the user's YouTube channel, tells which video and s
 <div class="intro">
     <div></div>
     <div>
-        <b>Core Value</b>
+        <b>핵심가치</b>
         <p>유저층을 분석하여 메인 타겟 유저를 2-30대의 트렌디한 유튜브 크리에이터로 설정하였고, 서비스 방향과 함께 디자인에서는 Growth, Easy, Friendly 3가지 전략 키워드를 정의하였습니다. 자메이크는 성장의 경험을 제공하면서 어려워보이는 자막 시장의 접근을 유저에게 쉽고 친근하게 제공하고자 하였습니다.</p>
     </div>
 </div>
@@ -58,7 +56,6 @@ description: Jamake analyzes the user's YouTube channel, tells which video and s
 <div class="intro">
     <div></div>
     <div>
-        <b>Color&Typography</b>
         <p>자메이크 컬러는 젊고 트렌디한 느낌을 주기 위해 퍼플과 블루 중간 계열의 컬러를 메인컬러로, 민트계열을 보조컬러로 정하였습니다. 또한 메인컬러와 매치되는 그레이컬러를 설정하여 컬러 시스템을 구축했습니다.<br><br>
         자메이크는 일본에서도 서비스를 제공하고 있어 일본어 지원이 되는 Noto Sans 서체를 국문으로 사용하였습니다. 영문과 숫자의 경우 친근한 느낌을 줄 수 있는 Lato 서체를 채택해 사용하였습니다.</p>
     </div>
@@ -69,7 +66,7 @@ description: Jamake analyzes the user's YouTube channel, tells which video and s
 <div class="intro">
     <div></div>
     <div>
-        <b>Key Visual</b>
+        <b>키주비주얼</b>
         <p>키비주얼은 단순한 도형을 활용한 직관적인 표현으로 내용 전달을 살리면서도 트렌디하고 실용적이게 디자인하였고, 브랜드 아이덴티티도 느껴질 수 있도록 하였습니다.</p>
     </div>
 </div>

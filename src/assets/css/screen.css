@@ -190,7 +190,7 @@ img{
 }
 @media (max-width: 500px) {
     .page-head-title {
-        font-size: 2rem;
+        font-size: 1.6rem;
     }
 }
 .page-head-hashtag {

@@ -16,9 +16,9 @@ const Layout = props => {
     if (typeof window !== `undefined`) { window.scrollTo(0, 0)}
   }
   
-  exports.shouldUpdateScroll = args => {
-     return false;
-  };
+  // exports.shouldUpdateScroll = args => {
+  //    return false;
+  // };
 
   return (
     <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>

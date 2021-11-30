@@ -31,7 +31,7 @@
 
 
 .about-content .inner > p{
-    font-size: 3rem;
+    font-size: 2rem;
     line-height: 1.5;
 }
 
@@ -48,7 +48,7 @@
 
 #resume .contact .email{
     margin-top: 30px;
-    font-size: 2.4rem;
+    font-size: 1.6rem;
 }
 
 /* 모바일 */
@@ -63,7 +63,7 @@
     }
 
     .about-content .inner > p{
-        font-size: 2.4rem;
+        font-size: 2rem;
     }
     
     .about-time .hamburger-inner, 

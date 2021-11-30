@@ -119,6 +119,10 @@
     margin: 3vw 0 !important;
 }
 
+
+
+/* Mobile Content 모바ㄹ 상세페이지
+/* ---------------------------------------------------------- */
 @media (max-width: 850px) {
     .project-content .intro,
     .project-content .context { 
@@ -135,7 +139,7 @@
         padding-left: 0;
     }
     .project-content p {
-        font-size: 1.5rem;
+        font-size: 1rem;
     }
 
     .intro p.en {

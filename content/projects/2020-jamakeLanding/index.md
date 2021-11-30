@@ -6,9 +6,7 @@ categories: "Web, Mobile, UI∙UX Design"
 description: Jamake analyzes the user's YouTube channel, tells which video and subtitle language is useful, and provides users with fast subtitles, an experience that helps attract overseas subscribers and help the channel grow.
 ---
 
-<div class="project-cover">
-    <img src="https://drive.google.com/uc?export=view&id=1RtLIjFtUK5rza6uQiNGKWxijkRh3yNlM" alt="">
-</div> <!-- // section cover -->
+![jamakeLanding-cover](https://drive.google.com/uc?export=view&id=1RtLIjFtUK5rza6uQiNGKWxijkRh3yNlM)
 
 <div class="intro">
     <div class="title">Jamake Landing-Page UIUX Design Renewal</div>

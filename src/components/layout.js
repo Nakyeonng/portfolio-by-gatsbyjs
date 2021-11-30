@@ -12,12 +12,6 @@ const Layout = props => {
   const {pathname} = useLocation()
   console.log(pathname)
 
-
-  if (document && window) {
-    window.scrollTo(0, 0)
-  }
-
-
   return (
     <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>
       {/*header*/}

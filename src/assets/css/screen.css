@@ -366,8 +366,9 @@ img{
     .site-head-left .nav > li:nth-child(n){width: auto;}
 
     .site-head-left .nav > li > a {
-        font-size: 4rem;
+        font-size: 3rem;
         letter-spacing: -0.02em;
+        line-height: 1;
     }
 
     /* 오픈될때 */

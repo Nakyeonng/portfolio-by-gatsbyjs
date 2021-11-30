@@ -12,8 +12,17 @@ const Layout = props => {
   const {pathname} = useLocation()
   console.log(pathname)
 
+  const entryTransition = {
+    trigger: () => {
+      if (document && window) {
+        window.scrollTo(0, 0)
+      }
+    },
+  }
+
   return (
-    <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>
+    <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`} 
+    entry={entryTransition}>
       {/*header*/}
       <header className="site-head">
         <div className="site-head-container">

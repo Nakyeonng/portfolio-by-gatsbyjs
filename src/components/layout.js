@@ -13,9 +13,10 @@ const Layout = props => {
   console.log(pathname)
 
   function scrollfunction(){
-    window.scrollTo(0,0);  
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
   }
-  
+
   return (
     <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`} 
     onLoad={scrollfunction()}>

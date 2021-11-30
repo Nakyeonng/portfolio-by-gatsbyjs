@@ -12,14 +12,6 @@ const Layout = props => {
   const {pathname} = useLocation()
   console.log(pathname)
 
-  exports.onRouteUpdate = () => {
-    if (typeof window !== `undefined`) { window.scrollTo(0, 0)}
-  }
-  
-  // exports.shouldUpdateScroll = args => {
-  //    return false;
-  // };
-
   return (
     <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>
       {/*header*/}

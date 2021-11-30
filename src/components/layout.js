@@ -12,13 +12,15 @@ const Layout = props => {
   const {pathname} = useLocation()
   console.log(pathname)
 
-  function scrollfunction(){
-    document.body.scrollTop = 0;
+  componentDidMount()
+  {
+    window.scrollTo(0,0);
+    console.log("test-mount");
   }
 
   return (
     <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`} 
-    onLoad={scrollfunction()}>
+    onLoad={componentDidMount}>
       {/*header*/}
       <header className="site-head">
         <div className="site-head-container">

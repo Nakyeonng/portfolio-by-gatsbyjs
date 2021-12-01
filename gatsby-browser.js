@@ -10,8 +10,9 @@ exports.onRouteUpdate = () => {
     console.log("top!")
 }
   
-exports.shouldUpdateScroll = args => {
-    return false;
+exports.shouldUpdateScroll = () => {
+    window.scrollTo(0, 0)
+    // return false;
 };
 
 exports.onClientEntry = () => {

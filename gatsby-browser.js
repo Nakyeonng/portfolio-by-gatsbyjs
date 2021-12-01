@@ -5,8 +5,8 @@ const Layout = require("./src/components/layout")
 const ProjectPost = require("./src/pages/project-post")
 
 exports.onRouteUpdate = () => {
-    // if (typeof window !== `undefined`) { window.scrollTo(0, 0)}
-    window.scrollTo(0, 0)
+    if (typeof window !== `undefined`) { window.scrollTo(0, 0)}
+    // window.scrollTo(0, 0)
     console.log("top!")
 }
   

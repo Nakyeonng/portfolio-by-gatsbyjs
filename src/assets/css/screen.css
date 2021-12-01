@@ -164,7 +164,7 @@ img{
     .site-wrapper {
         /* padding: 6vw auto; */
         /* padding: 4rem 2rem; */
-        padding: 3vw 4vw;
+        padding: 6vw 4vw;
     }
 }
 @media (min-width: 1680px) {
@@ -336,12 +336,12 @@ img{
 
 @media (max-width: 850px) {
     .site-head {
-        padding: 2vw 4vw;
+        padding: 3vw 4vw;
         background-color: #fff; 
     }
     .nav-burger {
         display: block;
-        padding: 4vw 4vw;
+        padding: 5vw;
     }
     .site-head-container {
         flex-direction: column;

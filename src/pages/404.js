@@ -37,6 +37,7 @@ class NotFoundPage extends React.Component {
     const siteTitle = data.site.siteMetadata.title
 
     return (
+    <div className="error-time">
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="Oops!" />
           <div style={pageStyles}>
@@ -56,6 +57,7 @@ class NotFoundPage extends React.Component {
             </p>
           </div>
       </Layout>
+    </div>
     )
   }
 }

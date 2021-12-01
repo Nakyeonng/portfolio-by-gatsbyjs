@@ -15,6 +15,7 @@ class ProjectPostTemplate extends React.Component {
     const siteTitle = this.props.data.site.siteMetadata.title
 
     return (
+    <div className="project-time">
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
           title={post.frontmatter.title}
@@ -51,6 +52,7 @@ class ProjectPostTemplate extends React.Component {
         </article>
         <Footer/>
       </Layout>
+    </div>
     )
   }
 }

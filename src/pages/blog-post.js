@@ -16,7 +16,7 @@ class BlogPostTemplate extends React.Component {
     const siteTitle = this.props.data.site.siteMetadata.title
 
     return (
-    <div className="blog-back">
+    <div className="blog-time">
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
           title={post.frontmatter.title}
